@@ -24,7 +24,7 @@ h1 {
     color: #d9dcd6;
 }
 ul {
-    margin-left: 100px;
+    float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     padding-bottom: 30px;
