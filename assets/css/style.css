@@ -23,14 +23,17 @@ h1 {
 .seo {
     color: #d9dcd6;
 }
-ul .nav li a {
-    display: inline-block;
-    text-align: right;
-    margin-right: 20px;
+ul {
+    margin-left: 100px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-    margin-left: 25px;
     padding-bottom: 30px;
+}
+.nav li {
+    display: inline-block;
+    text-align: right;
+}
+a {
     color: #ffffff;
     text-decoration: none;
 }
