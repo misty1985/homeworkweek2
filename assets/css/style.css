@@ -55,12 +55,14 @@ a {
 
 
  section {
+     column-count: 2;
     background-color: #0072bb;
     width: 75%;
     display: inline-block;
     margin-left: 20px;
  }
  article h2 p {
+    
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -82,7 +84,17 @@ p {
     margin-left: 25px;
     max-height: 200px;
 }
+#seeop {
+    float: left;
+}
 
+#orm{
+    float: right;
+}
+
+#smm{
+    float: left;
+}
     
 aside {
     background-color: #2589bd;
