@@ -55,13 +55,13 @@ a {
 
 
  section {
-     column-count: 2;
+    column-count: 2;
     background-color: #0072bb;
     width: 75%;
     display: inline-block;
     margin-left: 20px;
  }
- article h2 p {
+ .card {
     
     margin-bottom: 20px;
     padding: 50px;
@@ -96,7 +96,7 @@ p {
     float: left;
 }
     
-aside {
+.sidecontent {
     background-color: #2589bd;
     margin-bottom: 32px;
     margin-right: 20px;
