@@ -55,12 +55,12 @@ a {
 
 
  section {
+    background-color: #0072bb;
     width: 75%;
     display: inline-block;
     margin-left: 20px;
  }
  article h2 p {
-    background-color: #0072bb;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
