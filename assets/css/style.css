@@ -52,7 +52,7 @@ body {
 }
 
 
-section .container .cards .row .col-md-8 {
+section .container .cards .row .col-sm-8 {
     background-color: #0072bb;
     width: 75%;
     display: inline-block;
@@ -75,24 +75,27 @@ p {
 }
 
  .lead {
-    margin-left: 25px;
+    margin-right: 25px;
     max-height: 200px;
-}
-#seeop {
     float: left;
 }
+/* #seeop {
+    float: left;
+} */
 
 #orm{
     float: right;
+    margin-left: 25px;
+    max-height: 200px;
 }
 
-#smm{
+/* #smm{
 
     float: left;
-}
+} */
     
 
-/* .sidecontent*/ .col-6.col-md-4 { 
+/* .sidecontent*/ .col-6 .col-sm-4 { 
     background-color: #2589bd;
     margin-bottom: 32px;
     margin-right: 20px;
