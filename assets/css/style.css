@@ -78,7 +78,7 @@ p {
     float: left;
 }
 
-.orm{
+.orm {
     float: right;
     margin-left: 25px;
     max-height: 200px;
@@ -86,28 +86,30 @@ p {
 
     
 
- .sidecontent .row-cols-2 {  
+ .cards2 .col-6.col-sm-4 { 
     background-color: #2589bd;
-    margin-bottom: 32px;
     margin-right: 20px;
+    margin-bottom: 10px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #ffffff;
-}
-
- h3 {
-    margin-bottom: 10px;
-   
 }
 
  .benefits {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+h3 #brand {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: #ffffff;
+    font-size: 1.17em;
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 .footer {
