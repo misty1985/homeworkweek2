@@ -24,21 +24,13 @@ body {
 .seo {
     color: #d9dcd6;
 }
-  /* ul {
+
+.nav-link ul li a {
     width: 993.42px; 
     height: 56px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     box-sizing: border-box;
-    float: right;
-} */
-.nav-link ul li a {
-     width: 993.42px; 
-    height: 56px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-    box-sizing: border-box;
-    /* float: right; */
     list-style-type: none;
     text-align: right;
     margin-top: 44px;
@@ -60,7 +52,7 @@ body {
 }
 
 
- section .container .cards {
+section .container .cards .row .col-md-8 {
     background-color: #0072bb;
     width: 75%;
     display: inline-block;
@@ -95,6 +87,7 @@ p {
 }
 
 #smm{
+
     float: left;
 }
     
