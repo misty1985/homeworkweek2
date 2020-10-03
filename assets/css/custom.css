@@ -1,7 +1,11 @@
-div .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
-    
-    padding-right: 15px;
-    padding-left: 15px;
+section .container {
+    padding-right: 0px;
+    padding-left: 10px;
     margin-right: 0;
     margin-left: 10px;
+}
+
+.container.col-3{
+    padding-right: 10px;
+    margin-right: 10px;
 }
