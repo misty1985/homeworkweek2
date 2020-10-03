@@ -79,23 +79,16 @@ p {
     max-height: 200px;
     float: left;
 }
-/* #seeop {
-    float: left;
-} */
 
-#orm{
+.orm{
     float: right;
     margin-left: 25px;
     max-height: 200px;
 }
 
-/* #smm{
-
-    float: left;
-} */
     
 
-/* .sidecontent*/ .col-6 .col-sm-4 { 
+ .sidecontent .row-cols-2 {  
     background-color: #2589bd;
     margin-bottom: 32px;
     margin-right: 20px;
