@@ -1,3 +1,9 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
 body {
     background-color: #d9dcd6;
 }
@@ -18,15 +24,21 @@ body {
 .seo {
     color: #d9dcd6;
 }
- * ul {
+  /* ul {
     width: 993.42px; 
     height: 56px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     box-sizing: border-box;
     float: right;
-}
-.nav-link a li {
+} */
+.nav-link ul li a {
+     width: 993.42px; 
+    height: 56px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    box-sizing: border-box;
+    /* float: right; */
     list-style-type: none;
     text-align: right;
     margin-top: 44px;
@@ -38,7 +50,7 @@ body {
     text-decoration: none;
 }
 
-.hero {
+.jumbotron.jumbotron-fluid {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
