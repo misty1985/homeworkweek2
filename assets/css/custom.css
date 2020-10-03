@@ -1,0 +1,7 @@
+div .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 0;
+    margin-left: 10px;
+}

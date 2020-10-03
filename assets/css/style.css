@@ -86,16 +86,14 @@ p {
     max-height: 200px;
 }
 
-    
-
-  .col-sm-4 { 
+  aside {
+    clear: both;
+    float: right;
+    width: 20%;
     background-color: #2589bd;
     margin-right: 20px;
     margin-bottom: 10px;
     padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
     height: 100%;
 }
 
@@ -115,13 +113,11 @@ h3 {
 }
 
 
-.footer {
+.footer h2 {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
     font-size: 20px;
+    color: #000000;
 }
