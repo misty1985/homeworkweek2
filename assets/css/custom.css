@@ -5,7 +5,7 @@ section .container {
     margin-left: 10px;
 }
 
-.container.col-3{
+.col-3{
     padding-right: 10px;
     margin-right: 10px;
 }
